@@ -1,7 +1,7 @@
 def using_times
 	"Wingardium Leviosa"
 	
-	loop do
+	7.times.do
 	
 	break
 end
